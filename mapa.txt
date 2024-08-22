@@ -1,0 +1,49 @@
+1.jugar la campaña de william wallace
+colocar 3 fotos para guiar al jugador
+
+jugar esta campaña nos dara los conocmientos basicos para poder jugar el juego, 
+desde como mover las unidades, para que sirven los edificios, como pasar de una edad a otra, etc.
+
+
+
+
+
+
+(separar el rol del scout y de los aldeanos)
+
+
+
+
+2.primera meta ganarle a una ia muy facil
+puede que no sea problema para ti enfrentarte a una ia muy facil pero de todas maneras
+te dare una serie de secuencias que te ayudaran hacerlo de una manera mucho mas rapido
+
+debido a que ya pasaste la campaña de william wallace, seguramente estas familiarizado con 
+los celtas, debido a eso y tambien porque no tienen ninguna mecanica especial los seguiremos usando por ahora.
+
+vamos a ir a dificultad de la IA: y pondremos muy facilluego en ubicacion: cambiaremos a arabia, esto es por que es el 
+mapa por lejos mas usado en aoe2, si aprendemos a jugar en este mapa los otros se nos dará mucho mas facil.
+(imagen)la configuracion deberia ser asi(debido a la dificultad de la ia no va ser importante la civ con quien nos enfrentemos)
+
+empezamos el juego
+(imagen)
+
+al comenzar empezaremos con 3 aldeanos un scout(caballeria de exploracion) y el centro urbano, y muy cerca del centro urbano van haber algunos animales de corral(pueden ser ovejas, cerdos, vacas,etc)
+
+(imagen)
+lo primero que vamos hacer es construir 2 casas, una casa con 2 aldeanos y la otra con el que sobra.
+luego de eso vamos a construir aldeanos en nuesto Tc(centro urbano)
+te acuerdas que habian animales domesticos cerca de tu tc? bueno depende de la partida puede que 
+los puedas manejar o no, si no es asi deberas llevar a tu scout para que se pasen a tu equipo. luego deberas hacercarlos a tu tc 
+
+(falta imagen)
+luego de esto selecionaras en el scout y apretaras el boton de autosouting, esto hara que el scout explore de una manera automatica
+
+(imagen)
+al acercar las ovejas con los aldeanos que tenias y con los que has empezado a contruir deberas consumirlas, la recomendacion es que todos consuman a una,debido que existe una mecanica del juego
+que hace que los animales cazados, se les vaya disminuyendo su cantidad de carne a medida que pase el tiempo
+
+(falta imagen)
+cuando tengas 6 aldeanos construidos, el 7 al 11 iran a buscar madera, una buenaforma de mejorar el rendimiento de trabajo de tus aldeanos
+es que hagas click en el centro urbano y con el boton secundario hagas click en uno de los arboles cercanos el tc,eso hara que los aldeanos a penas se hayan creado vayan directamente, en este caso a buscar madera
+cuando tengamos los 4 aldeanos creados los enviaremos a una zona de arboles cercanos a construir un taladero*
